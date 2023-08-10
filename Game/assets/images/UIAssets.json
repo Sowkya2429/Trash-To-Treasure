@@ -1,0 +1,2436 @@
+{
+	"textures": [
+		{
+			"image": "UIAssets-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 768
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 1024,
+						"h": 768
+					}
+				},
+				{
+					"filename": "background_character",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 768
+					},
+					"frame": {
+						"x": 3,
+						"y": 775,
+						"w": 1024,
+						"h": 768
+					}
+				},
+				{
+					"filename": "Title",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 904,
+						"h": 678
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 904,
+						"h": 664
+					},
+					"frame": {
+						"x": 1031,
+						"y": 3,
+						"w": 904,
+						"h": 664
+					}
+				},
+				{
+					"filename": "frame_large",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 679,
+						"h": 621
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 679,
+						"h": 621
+					},
+					"frame": {
+						"x": 1031,
+						"y": 671,
+						"w": 679,
+						"h": 621
+					}
+				},
+				{
+					"filename": "conveyor_belt_1024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 217
+					},
+					"frame": {
+						"x": 3,
+						"y": 1547,
+						"w": 1024,
+						"h": 217
+					}
+				},
+				{
+					"filename": "score_background2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 599
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 0,
+						"w": 679,
+						"h": 599
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1296,
+						"w": 679,
+						"h": 599
+					}
+				},
+				{
+					"filename": "conveyor_belt_lower",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 44
+					},
+					"frame": {
+						"x": 3,
+						"y": 1768,
+						"w": 1024,
+						"h": 44
+					}
+				},
+				{
+					"filename": "instructions1a",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 497,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 497,
+						"h": 202
+					},
+					"frame": {
+						"x": 3,
+						"y": 1816,
+						"w": 497,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Compost_Bin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 201
+					},
+					"frame": {
+						"x": 504,
+						"y": 1816,
+						"w": 393,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Compost_Bin2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 351
+					},
+					"frame": {
+						"x": 1714,
+						"y": 671,
+						"w": 229,
+						"h": 351
+					}
+				},
+				{
+					"filename": "Landfill_Bin2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 341
+					},
+					"frame": {
+						"x": 1714,
+						"y": 1026,
+						"w": 229,
+						"h": 341
+					}
+				},
+				{
+					"filename": "Recycling_Bin2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 342
+					},
+					"frame": {
+						"x": 1714,
+						"y": 1371,
+						"w": 228,
+						"h": 342
+					}
+				},
+				{
+					"filename": "Recycle7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 156
+					},
+					"frame": {
+						"x": 1939,
+						"y": 3,
+						"w": 106,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Difficulty_Icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 276,
+						"h": 203
+					},
+					"frame": {
+						"x": 1714,
+						"y": 1717,
+						"w": 276,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Recycle2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 206
+					},
+					"frame": {
+						"x": 901,
+						"y": 1816,
+						"w": 115,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Skunk_Hands",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 144
+					},
+					"frame": {
+						"x": 1020,
+						"y": 1899,
+						"w": 256,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Possum_Hands",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 255,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 255,
+						"h": 144
+					},
+					"frame": {
+						"x": 1280,
+						"y": 1899,
+						"w": 255,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Recycle9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 198
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 198
+					},
+					"frame": {
+						"x": 1939,
+						"y": 163,
+						"w": 97,
+						"h": 198
+					}
+				},
+				{
+					"filename": "BTN_GO",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 137
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1899,
+						"w": 137,
+						"h": 137
+					}
+				},
+				{
+					"filename": "Electronic6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 121
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1924,
+						"w": 135,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Electronic2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 118
+					},
+					"frame": {
+						"x": 1819,
+						"y": 1924,
+						"w": 205,
+						"h": 118
+					}
+				},
+				{
+					"filename": "Electronic3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 81
+					},
+					"frame": {
+						"x": 1939,
+						"y": 365,
+						"w": 82,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BTNPlay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 1939,
+						"y": 450,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BTN_Mute",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 1939,
+						"y": 533,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tongue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 36
+					},
+					"frame": {
+						"x": 2013,
+						"y": 533,
+						"w": 32,
+						"h": 36
+					}
+				}
+			]
+		},
+		{
+			"image": "UIAssets-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2031,
+				"h": 1886
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Game_Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 768
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 1024,
+						"h": 768
+					}
+				},
+				{
+					"filename": "score_background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 599
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 599
+					},
+					"frame": {
+						"x": 3,
+						"y": 775,
+						"w": 1024,
+						"h": 599
+					}
+				},
+				{
+					"filename": "UI_Bar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1025,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1025,
+						"h": 25
+					},
+					"frame": {
+						"x": 3,
+						"y": 1378,
+						"w": 1025,
+						"h": 25
+					}
+				},
+				{
+					"filename": "instructions3a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 515,
+						"h": 396
+					},
+					"frame": {
+						"x": 1031,
+						"y": 3,
+						"w": 515,
+						"h": 396
+					}
+				},
+				{
+					"filename": "Recyclable_Instructions",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 515,
+						"h": 396
+					},
+					"frame": {
+						"x": 1031,
+						"y": 3,
+						"w": 515,
+						"h": 396
+					}
+				},
+				{
+					"filename": "Skunk",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 461,
+						"h": 449
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 461,
+						"h": 449
+					},
+					"frame": {
+						"x": 3,
+						"y": 1407,
+						"w": 461,
+						"h": 449
+					}
+				},
+				{
+					"filename": "Raccoon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 462,
+						"h": 446
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 462,
+						"h": 446
+					},
+					"frame": {
+						"x": 1031,
+						"y": 403,
+						"w": 462,
+						"h": 446
+					}
+				},
+				{
+					"filename": "instructions5a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 551,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 536,
+						"h": 370
+					},
+					"frame": {
+						"x": 468,
+						"y": 1407,
+						"w": 536,
+						"h": 370
+					}
+				},
+				{
+					"filename": "Landfill_Instructions",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 551,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 536,
+						"h": 370
+					},
+					"frame": {
+						"x": 468,
+						"y": 1407,
+						"w": 536,
+						"h": 370
+					}
+				},
+				{
+					"filename": "instructions2a",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 466,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 466,
+						"h": 288
+					},
+					"frame": {
+						"x": 1550,
+						"y": 3,
+						"w": 466,
+						"h": 288
+					}
+				},
+				{
+					"filename": "Electronic_Bin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 201
+					},
+					"frame": {
+						"x": 1031,
+						"y": 853,
+						"w": 393,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Landfill_Bin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 201
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1058,
+						"w": 393,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Recycling_Bin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 201
+					},
+					"frame": {
+						"x": 1550,
+						"y": 295,
+						"w": 393,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Easy_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 102
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1263,
+						"w": 382,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Electronic_Bin2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 297
+					},
+					"frame": {
+						"x": 1497,
+						"y": 500,
+						"w": 228,
+						"h": 297
+					}
+				},
+				{
+					"filename": "Electronic_Bin3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 297
+					},
+					"frame": {
+						"x": 1729,
+						"y": 500,
+						"w": 228,
+						"h": 297
+					}
+				},
+				{
+					"filename": "Hard_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 102
+					},
+					"frame": {
+						"x": 468,
+						"y": 1781,
+						"w": 382,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 102
+					},
+					"frame": {
+						"x": 1497,
+						"y": 801,
+						"w": 382,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Electronics_Bin3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 297
+					},
+					"frame": {
+						"x": 1428,
+						"y": 907,
+						"w": 228,
+						"h": 297
+					}
+				},
+				{
+					"filename": "Recycling_Bin3 copy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 114,
+						"w": 228,
+						"h": 228
+					},
+					"frame": {
+						"x": 1660,
+						"y": 907,
+						"w": 228,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Electronic5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 267,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 267,
+						"h": 178
+					},
+					"frame": {
+						"x": 1660,
+						"y": 1139,
+						"w": 267,
+						"h": 178
+					}
+				},
+				{
+					"filename": "Recycling_Bin3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 228,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 114,
+						"w": 228,
+						"h": 228
+					},
+					"frame": {
+						"x": 1428,
+						"y": 1208,
+						"w": 228,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Raccoon_Hands",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 262,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 262,
+						"h": 147
+					},
+					"frame": {
+						"x": 1660,
+						"y": 1321,
+						"w": 262,
+						"h": 147
+					}
+				},
+				{
+					"filename": "Rat_Hands",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 123
+					},
+					"frame": {
+						"x": 1032,
+						"y": 1369,
+						"w": 230,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Possum_Icon_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1496,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Electronic4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 152,
+						"h": 124
+					},
+					"frame": {
+						"x": 1266,
+						"y": 1369,
+						"w": 152,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Compost_Bin3 copy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 229,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 233,
+						"w": 229,
+						"h": 118
+					},
+					"frame": {
+						"x": 1422,
+						"y": 1440,
+						"w": 229,
+						"h": 118
+					}
+				},
+				{
+					"filename": "Compost_Bin3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 229,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 233,
+						"w": 229,
+						"h": 118
+					},
+					"frame": {
+						"x": 1655,
+						"y": 1472,
+						"w": 229,
+						"h": 118
+					}
+				},
+				{
+					"filename": "Raccoon_Icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1679,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Rat_Icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1497,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Landfill1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 155
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1680,
+						"w": 165,
+						"h": 155
+					}
+				},
+				{
+					"filename": "Landfill_Bin3 copy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 229,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 223,
+						"w": 229,
+						"h": 118
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1562,
+						"w": 229,
+						"h": 118
+					}
+				},
+				{
+					"filename": "Landfill_Bin3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 229,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 223,
+						"w": 229,
+						"h": 118
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1684,
+						"w": 229,
+						"h": 118
+					}
+				},
+				{
+					"filename": "Timer",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 68
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1806,
+						"w": 229,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Recycle6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 83
+					},
+					"frame": {
+						"x": 1589,
+						"y": 1594,
+						"w": 227,
+						"h": 83
+					}
+				},
+				{
+					"filename": "Arrow_Right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 80
+					},
+					"frame": {
+						"x": 1947,
+						"y": 295,
+						"w": 81,
+						"h": 80
+					}
+				},
+				{
+					"filename": "BTN_Continue_Playin",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 179
+					},
+					"frame": {
+						"x": 1584,
+						"y": 1684,
+						"w": 132,
+						"h": 179
+					}
+				},
+				{
+					"filename": "BTN_Restart",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 179
+					},
+					"frame": {
+						"x": 1720,
+						"y": 1681,
+						"w": 132,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Arrow_Left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 78
+					},
+					"frame": {
+						"x": 854,
+						"y": 1781,
+						"w": 77,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BTNHomePreview",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 179
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1472,
+						"w": 132,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Electronic_Hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 109
+					},
+					"frame": {
+						"x": 1856,
+						"y": 1655,
+						"w": 129,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Landfill_Hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 109
+					},
+					"frame": {
+						"x": 1856,
+						"y": 1768,
+						"w": 129,
+						"h": 109
+					}
+				},
+				{
+					"filename": "BTN_Pause",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 1883,
+						"y": 801,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BTN_START",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 111
+					},
+					"frame": {
+						"x": 1892,
+						"y": 875,
+						"w": 110,
+						"h": 111
+					}
+				},
+				{
+					"filename": "Recycling_Hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 109
+					},
+					"frame": {
+						"x": 1892,
+						"y": 990,
+						"w": 129,
+						"h": 109
+					}
+				},
+				{
+					"filename": "BTN_Unmute",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 1947,
+						"y": 379,
+						"w": 70,
+						"h": 70
+					}
+				}
+			]
+		},
+		{
+			"image": "UIAssets-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 2042
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background_select",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 768
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 1024,
+						"h": 768
+					}
+				},
+				{
+					"filename": "instructions_background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 768
+					},
+					"frame": {
+						"x": 3,
+						"y": 775,
+						"w": 1024,
+						"h": 768
+					}
+				},
+				{
+					"filename": "frame",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 577,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 577,
+						"h": 430
+					},
+					"frame": {
+						"x": 1031,
+						"y": 3,
+						"w": 577,
+						"h": 430
+					}
+				},
+				{
+					"filename": "Pause_Popup",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 577,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 577,
+						"h": 430
+					},
+					"frame": {
+						"x": 3,
+						"y": 1547,
+						"w": 577,
+						"h": 430
+					}
+				},
+				{
+					"filename": "Electronic_Instructions",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 555,
+						"h": 384
+					},
+					"frame": {
+						"x": 1031,
+						"y": 437,
+						"w": 555,
+						"h": 384
+					}
+				},
+				{
+					"filename": "instructions6a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 555,
+						"h": 384
+					},
+					"frame": {
+						"x": 1031,
+						"y": 437,
+						"w": 555,
+						"h": 384
+					}
+				},
+				{
+					"filename": "Rat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 401,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 401,
+						"h": 514
+					},
+					"frame": {
+						"x": 1031,
+						"y": 825,
+						"w": 401,
+						"h": 514
+					}
+				},
+				{
+					"filename": "Possum",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 387,
+						"h": 483
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 387,
+						"h": 483
+					},
+					"frame": {
+						"x": 1612,
+						"y": 3,
+						"w": 387,
+						"h": 483
+					}
+				},
+				{
+					"filename": "Compost_Instructions",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 588,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 588,
+						"h": 348
+					},
+					"frame": {
+						"x": 584,
+						"y": 1547,
+						"w": 588,
+						"h": 348
+					}
+				},
+				{
+					"filename": "instructions4a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 588,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 588,
+						"h": 348
+					},
+					"frame": {
+						"x": 584,
+						"y": 1547,
+						"w": 588,
+						"h": 348
+					}
+				},
+				{
+					"filename": "bin_hit_target",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 360
+					},
+					"frame": {
+						"x": 1590,
+						"y": 490,
+						"w": 393,
+						"h": 360
+					}
+				},
+				{
+					"filename": "Compost5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 271,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 271,
+						"h": 140
+					},
+					"frame": {
+						"x": 584,
+						"y": 1899,
+						"w": 271,
+						"h": 140
+					}
+				},
+				{
+					"filename": "bin_hit_target copy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 260
+					},
+					"frame": {
+						"x": 1436,
+						"y": 854,
+						"w": 393,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Possum_Icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1833,
+						"y": 854,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Easy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 382,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 371,
+						"h": 90
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1343,
+						"w": 371,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Hard",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 382,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 371,
+						"h": 90
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1118,
+						"w": 371,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Landfill4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 106
+					},
+					"frame": {
+						"x": 1031,
+						"y": 1437,
+						"w": 195,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Raccoon_Icon_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1037,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Compost2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 276,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 276,
+						"h": 173
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1212,
+						"w": 276,
+						"h": 173
+					}
+				},
+				{
+					"filename": "Recycle3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 282,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 83
+					},
+					"frame": {
+						"x": 859,
+						"y": 1899,
+						"w": 282,
+						"h": 83
+					}
+				},
+				{
+					"filename": "Recycle5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 168
+					},
+					"frame": {
+						"x": 1716,
+						"y": 1220,
+						"w": 268,
+						"h": 168
+					}
+				},
+				{
+					"filename": "Recycle8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 174
+					},
+					"frame": {
+						"x": 1230,
+						"y": 1437,
+						"w": 218,
+						"h": 174
+					}
+				},
+				{
+					"filename": "Landfill6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 187
+					},
+					"frame": {
+						"x": 1452,
+						"y": 1389,
+						"w": 195,
+						"h": 187
+					}
+				},
+				{
+					"filename": "Landfill3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 210,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 150
+					},
+					"frame": {
+						"x": 1176,
+						"y": 1615,
+						"w": 210,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Compost6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 97
+					},
+					"frame": {
+						"x": 1176,
+						"y": 1769,
+						"w": 215,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Rat_Icon_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1651,
+						"y": 1392,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Skunk_Icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1825,
+						"y": 1392,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Score",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 68
+					},
+					"frame": {
+						"x": 1176,
+						"y": 1870,
+						"w": 220,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Compost7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 97
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1942,
+						"w": 215,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Landfill5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 151
+					},
+					"frame": {
+						"x": 1452,
+						"y": 1580,
+						"w": 171,
+						"h": 151
+					}
+				},
+				{
+					"filename": "Compost3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 113
+					},
+					"frame": {
+						"x": 1395,
+						"y": 1735,
+						"w": 151,
+						"h": 113
+					}
+				},
+				{
+					"filename": "Electronic1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 90
+					},
+					"frame": {
+						"x": 1400,
+						"y": 1852,
+						"w": 169,
+						"h": 90
+					}
+				},
+				{
+					"filename": "BTN_Left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 111
+					},
+					"frame": {
+						"x": 1550,
+						"y": 1735,
+						"w": 111,
+						"h": 111
+					}
+				},
+				{
+					"filename": "Skunk_Icon_selected",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 179
+					},
+					"frame": {
+						"x": 1665,
+						"y": 1575,
+						"w": 170,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Compost4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 123
+					},
+					"frame": {
+						"x": 1839,
+						"y": 1575,
+						"w": 137,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Landfill2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 155
+					},
+					"frame": {
+						"x": 1665,
+						"y": 1758,
+						"w": 165,
+						"h": 155
+					}
+				},
+				{
+					"filename": "Recycle1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 100
+					},
+					"frame": {
+						"x": 1839,
+						"y": 1702,
+						"w": 157,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Recycle4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 101
+					},
+					"frame": {
+						"x": 1834,
+						"y": 1806,
+						"w": 157,
+						"h": 101
+					}
+				},
+				{
+					"filename": "Compost1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 78
+					},
+					"frame": {
+						"x": 1364,
+						"y": 1946,
+						"w": 119,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BTN_Home",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 1487,
+						"y": 1946,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "Compost_Hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 109
+					},
+					"frame": {
+						"x": 1834,
+						"y": 1911,
+						"w": 129,
+						"h": 109
+					}
+				},
+				{
+					"filename": "BTN_Right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 111
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1917,
+						"w": 111,
+						"h": 111
+					}
+				},
+				{
+					"filename": "BTNReplay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 111
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1917,
+						"w": 111,
+						"h": 111
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e6d7faddea89e394d6e8ad11af13f567:a9bdab6e6e4b29d7e698c612cced3da7:a55390487f84fb42306b732b53090e03$"
+	}
+}
