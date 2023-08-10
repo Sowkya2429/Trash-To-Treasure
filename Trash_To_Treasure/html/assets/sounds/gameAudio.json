@@ -1,0 +1,43 @@
+{
+  "resources": [
+    "./src/assets/sounds/gameAudio.ogg",
+    "./src/assets/sounds/gameAudio.mp3"
+  ],
+  "spritemap": {
+    "click": {
+      "start": 0,
+      "end": 0.2597732426303855,
+      "loop": false
+    },
+    "correct": {
+      "start": 2,
+      "end": 4.037551020408163,
+      "loop": false
+    },
+    "error": {
+      "start": 6,
+      "end": 6.4281179138321995,
+      "loop": false
+    },
+    "incorrect_item": {
+      "start": 8,
+      "end": 8.36281179138322,
+      "loop": false
+    },
+    "jingle": {
+      "start": 10,
+      "end": 44.220408163265304,
+      "loop": false
+    },
+    "times_up": {
+      "start": 46,
+      "end": 47.04489795918367,
+      "loop": false
+    },
+    "wipe_out_jingle": {
+      "start": 49,
+      "end": 126.21795918367347,
+      "loop": false
+    }
+  }
+}
